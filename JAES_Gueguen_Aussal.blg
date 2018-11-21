@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: JAES_Gueguen_Aussal.aux
+The style file: plain.bst
+Database file #1: Biblio.bib
+Warning--to sort, need author or key in iso
+You've used 19 entries,
+            2118 wiz_defined-function locations,
+            591 strings with 6690 characters,
+and the built_in function-call counts, 4540 in all, are:
+= -- 415
+> -- 230
+< -- 0
++ -- 95
+- -- 74
+* -- 200
+:= -- 766
+add.period$ -- 54
+call.type$ -- 19
+change.case$ -- 94
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 133
+empty$ -- 420
+format.name$ -- 74
+if$ -- 974
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 0
+newline$ -- 95
+num.names$ -- 36
+pop$ -- 172
+preamble$ -- 1
+purify$ -- 75
+quote$ -- 0
+skip$ -- 139
+stack$ -- 0
+substring$ -- 97
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 1
+while$ -- 36
+width$ -- 21
+write$ -- 185
+(There was 1 warning)

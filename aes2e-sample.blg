@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: aes2e-sample.aux
+The style file: aes2e.bst.bst
+Database file #1: aes2e.bib.bib
+Warning--string name "/" is undefined
+--line 18 of file aes2e.bib.bib
+You've used 5 entries,
+            2619 wiz_defined-function locations,
+            624 strings with 5093 characters,
+and the built_in function-call counts, 1848 in all, are:
+= -- 130
+> -- 27
+< -- 8
++ -- 12
+- -- 7
+* -- 114
+:= -- 191
+add.period$ -- 9
+call.type$ -- 5
+change.case$ -- 3
+chr.to.int$ -- 3
+cite$ -- 5
+duplicate$ -- 203
+empty$ -- 195
+format.name$ -- 9
+if$ -- 416
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 41
+newline$ -- 24
+num.names$ -- 5
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 50
+stack$ -- 0
+substring$ -- 96
+swap$ -- 136
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 15
+width$ -- 6
+write$ -- 53
+(There was 1 warning)

@@ -1,0 +1,106 @@
+\begin{thebibliography}{10}
+
+\bibitem{iso}
+Iso-9613-1.
+\newblock Acoustics - Attenuation of sound during propagation outdoors, 1993.
+
+\bibitem{githubGypsi}
+Matthieu Aussal.
+\newblock Gypsilab\\www.cmapx.polytechnique.fr/~aussal/gypsilab, 2018.
+
+\bibitem{gypsilab}
+Matthieu Aussal and Fran{\c c}ois Alouges.
+\newblock Gypsilab, un nouvel outil de calcul fem/bem pour l'acoustique
+  num{\'e}rique.
+\newblock JCM, 2018.
+
+\bibitem{orangeTxt}
+Alain Badie, Myriam Fincker, Jean-Charles Moretti, Liliane Rabatel, Emmanuelle
+  Rosso, and Dominique Tardy.
+\newblock Le th{\'e}{\^a}tre d'{O}range - {R}apport final d'op{\'e}ration -
+  {T}exte.
+\newblock PACA Vaucluse, Orange Th{\'e}{\^a}tre antique 84 087 0031 -
+  Patriarche 9827 n2012-203, 2013.
+
+\bibitem{doc_blender}
+Blender.
+\newblock Manuel \textit{{B}lender}.
+\newblock \\https://docs.blender.org/manual/fr/dev/, 2017.
+
+\bibitem{canac}
+Fran{\c c}ois Canac.
+\newblock L'acoustique des th{\'e}{\^a}tres antiques. ses enseignements.
+\newblock {\'E}ditions du centre national de la recherche scientifique, 1967.
+
+\bibitem{fft}
+James~W. Cooley and John~W. Tukey.
+\newblock An algorithm for the machine calculation of complex fourier series.
+\newblock Mathematics of Computation, vol 19(90), p.297-301, 1965.
+
+\bibitem{theseRobin}
+Robin Gueguen.
+\newblock Virtualisation architecturale visuelle et auditive du th{\'e}{\^a}tre
+  antique d'orange.
+\newblock PhD Thesis, 2018.
+
+\bibitem{matrix}
+Wolfgang Hackbusch.
+\newblock Hierarchical matrices: Algorithms and analysis.
+\newblock Springer Series in Computational Mathematics, 2015.
+
+\bibitem{jouhaneau}
+Jacques Jouhaneau.
+\newblock Acoustique des salles et sonorisation.
+\newblock Conservatoire national des arts et m{\'e}tiers - Acoustique
+  appliqu{\'e}e, vol 3, 1997.
+
+\bibitem{fibonacci}
+Benjamin Keinert, Matthias Innmann, Michael Sanger, and Marc Stamminger.
+\newblock Spherical fibonacci mapping.
+\newblock ACM Transactions on Graphics, vol 34, November 2015.
+
+\bibitem{acoustique}
+G{\'e}rard Krauss, Ren{\'e} Yezou, and Fr{\'e}d{\'e}ric Kuznik.
+\newblock Acoustique du batiment.
+\newblock Institut national des sciences appliqu{\'e}es de Lyon, 2009.
+
+\bibitem{vitruve}
+Charles Maufras.
+\newblock Vitruve : De l'architecture, livre v.
+\newblock Panckoucke, 1847.
+
+\bibitem{mcgovern}
+Stephen McGovern.
+\newblock Fast image method for impulse response calculations of box-shaped
+  rooms.
+\newblock Applied Acoustics, vol 70, Janvier 2009.
+
+\bibitem{moller}
+Tomas M{\"o}ller and Ben Trumbore.
+\newblock Fast, minimum storage ray-triangle intersection.
+\newblock Journal of Graphics Tools, vol 2, p21-28, 1997.
+
+\bibitem{odeon}
+Odeon.
+\newblock Odeon webpage - https://odeon.dk/.
+
+\bibitem{hautes_freq}
+Emmanuel Perrey-Debaina, Mingming Yang, Benoit Nennigb, and Jean-Daniel
+  Chazota.
+\newblock Approximation par ondes planes et son utilisation pour la m{\'e}thode
+  des {\'e}l{\'e}ments finis.
+\newblock CFA/VISHNO, 2016.
+
+\bibitem{grasshopper}
+Philip Robinson.
+\newblock Acoustic raytracer - buzz plug-in.
+\newblock
+  https://www.grasshopper3d.com/forum/topics/acoustic-raytracer-buzz-plug-in.,
+  2013.
+
+\bibitem{AABB}
+Amy Williams, Steve Barrus, R.Keith Morley, and Peter Shirley.
+\newblock An efficient and robust ray--box intersection algorithm.
+\newblock ACM SIGGRAPH (9)., 2005.
+
+\end{thebibliography}
